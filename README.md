@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Módulo 3 - Trilha HTML
 
 **Título:** Recriando Wikipedia, com um layout melhor :)
@@ -17,3 +18,6 @@ Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais f�
 - [Wikipedia](https://pt.wikipedia.org/)
 
 
+=======
+# wiki-moderna
+>>>>>>> 81b4dabef06a8292976982a7f70de39f984ceafc
