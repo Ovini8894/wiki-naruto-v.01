@@ -2,12 +2,13 @@ body, html {
     margin: 0;
     padding: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 56px;
 }
 ul { list-style: none; padding-left: 5px; }
 a { color:blue; text-decoration: none;}
 .bar {
     background-color: #f9f9fb;
-    padding:15px;
+    padding:1px;
     border-top: solid 1px #cdcdcd;
     border-bottom: solid 1px #cdcdcd;
     display: flex;
@@ -31,16 +32,16 @@ a { color:blue; text-decoration: none;}
 .anchors {
     border-left: solid 1px #cdcdcd;
     padding-left: 20px;
-    height: 1500px
+    height: 5200px
 }
 .sidebar {
     border-right: solid 1px #cdcdcd;
-    height: 1500px
+    height: 5200px
 }
 figure {
     text-align: center;
     /*padding: topo direita baixo esquerda;*/
-    padding: 10px 0px 10px 0px
+    padding: 10px 0px 10px 0px;
 }
 
 .bar1 {
@@ -56,5 +57,24 @@ figure {
 .logo {
     display: flex;
     align-items: center;
+    background-color: rgb(169, 169, 169);
+    width: 500px;
+    margin: auto;
+    height: 90px;
+    border-radius: 20px;
+    box-shadow: 2 2px 4px rgb(241, 234, 234); 
+}
+header {
+  position: fixed;     
+  top: 0;              
+  left: 0;             
+  width: 100%;         
+  background-color: rgb(38, 56, 95);  
+  padding: 10px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2); 
+  z-index: 1000;       
+}
+section {
+  scroll-margin-top: 120px; 
 }
 
