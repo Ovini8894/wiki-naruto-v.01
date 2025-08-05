@@ -62,7 +62,6 @@ figure {
     margin: auto;
     height: 90px;
     border-radius: 20px;
-    box-shadow: 2 2px 4px rgb(241, 234, 234); 
 }
 header {
   position: fixed;     
@@ -77,4 +76,14 @@ header {
 section {
   scroll-margin-top: 120px; 
 }
-
+footer {
+  background: #333;             /* Cor de fundo escura */
+  color: #FFFFFF;                 /* Cor do texto branca */
+  padding: 10px;                /* Espaçamento interno */
+  display: flex;
+  font-weight: bold;
+}
+ ul {
+    list-style: disc;
+    padding-left: 20px;
+ }
