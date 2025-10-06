@@ -3,6 +3,8 @@
 **A Maior Enciclopédia Ninja da Vila da Folha!**  
 Este projeto é um site informativo inspirado no universo do anime *Naruto*, com o objetivo de apresentar conteúdos sobre a história, personagens e sistema de poder da obra.
 
+https://ovini8894.github.io/wiki-naruto-v.01/
+
 ---
 
 ## 📚 Sobre o Projeto
